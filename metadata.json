@@ -1,0 +1,6 @@
+{
+  "name": "Museo de la Felicidad",
+  "description": "Rediseño interactivo y moderno para la landing page de ultra alta conversión del Museo de la Felicidad (MÜF) de Madrid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
